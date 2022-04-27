@@ -41,7 +41,7 @@ Trying to implement some Minecraft textures in Minetest... this is my first text
 <br>
 ✓ The grass looks a bit *too* green. --// Fixed!
 <br>
-● *Please* don't pres "C"... the player file got mess up and... uh oh...
+● *Please* don't press "C"... the player file got mess up and... uh oh...
 <br>
 
 If you find any, just comment them.
