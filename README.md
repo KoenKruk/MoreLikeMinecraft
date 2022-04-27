@@ -35,11 +35,13 @@ Trying to implement some Minecraft textures in Minetest... this is my first text
 --
 ● Some materials still have minetest textures.
 <br>
-● The water isn't transparent.
+✓ The water isn't transparent. --// Fixed!
 <br>
-● "Sea water" is a really weird lavender blue color.
+✓ "Sea water" is a really weird lavender blue color. --// Fixed!
 <br>
-● The grass looks a bit *too* green.
+✓ The grass looks a bit *too* green. --// Fixed!
+<br>
+● *Please* don't pres "C"... the player file got mess up and... uh oh...
 <br>
 
 If you find any, just comment them.
