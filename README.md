@@ -1,7 +1,7 @@
 # MoreLikeMinecraft
 The classic 16x16 Minecraft textures we all know.
 
-Trying to implement some Minecraft textures in Minetest... this is my first texture pack so I don't know if it will work properly.
+Trying to implement some Minecraft textures in Minetest... this is my first texture pack so I don't know if it will work properly. But is sure seems to!
 
 **What is changed:**
 --
@@ -33,7 +33,7 @@ Trying to implement some Minecraft textures in Minetest... this is my first text
 
 **Bugs I've Found:**
 --
-● Some materials still have minetest textures.
+● Some blocks still have the Minetest textures.
 <br>
 ✓ The water isn't transparent. --// Fixed!
 <br>
