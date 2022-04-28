@@ -1,7 +1,7 @@
 # MoreLikeMinecraft
 The classic 16x16 Minecraft textures we all know.
 
-Trying to implement some Minecraft textures in Minetest... this is my first texture pack so I don't know if it will work properly.
+Trying to implement some Minecraft textures in Minetest... this is my first texture pack so I don't know if it will work properly. But is sure seems to!
 
 **What is changed:**
 --
@@ -33,13 +33,15 @@ Trying to implement some Minecraft textures in Minetest... this is my first text
 
 **Bugs I've Found:**
 --
-● Some materials still have minetest textures.
+● Some blocks still have the Minetest textures.
 <br>
-● The water isn't transparent.
+✓ The water isn't transparent. --// Fixed!
 <br>
-● "Sea water" is a really weird lavender blue color.
+✓ "Sea water" is a really weird lavender blue color. --// Fixed!
 <br>
-● The grass looks a bit *too* green.
+✓ The grass looks a bit *too* green. --// Fixed!
+<br>
+● *Please* don't press "C"... the player file got messed up and... uh oh...
 <br>
 
 If you find any, just comment them.
