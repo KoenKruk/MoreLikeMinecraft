@@ -30,6 +30,8 @@ Trying to implement some Minecraft textures in Minetest... this is my first text
 ● Wool
 <br>
 ● Default Minetest Game Blocks (not sure if this will work on mods)**
+<br>
+● And much more!
 
 **Bugs I've Found:**
 --
