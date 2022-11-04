@@ -1,5 +1,7 @@
-# MoreLikeMinecraft
+# More Like Minecraft
 The classic 16x16 Minecraft textures we all know.
+
+<img src="https://raw.githubusercontent.com/KoenKDev/MoreLikeMinecraft/main/screenshot.png"></img> 
 
 Trying to implement some Minecraft textures in Minetest... this is my first texture pack so I don't know if it will work properly. But is sure seems to!
 
